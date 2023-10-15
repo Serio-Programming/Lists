@@ -56,12 +56,12 @@ Lord
 Lord Great Chamberlain
 Lord High Constable
 Lord Privy Seal
-National Security Advisor
 Madam
 Merchandising Associate
 Miss
 Missus
 Mister
+National Security Advisor
 Office Clerk
 Officer
 Pantry Chef
@@ -70,15 +70,15 @@ Presiding Patriarch
 Priest
 Primate
 Primatologist
+Prime Minister
 Prince
 Princess
-Prime Minister
 Professor
 Queen
 Rabbi
-Risk Manager
 Reader
 Regional Manager
+Risk Manager
 Secretary of State
 Sergeant
 Service Provider
